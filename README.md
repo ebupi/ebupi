@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Cambo&size=24&pause=1000&color=F7902E&center=true&vCenter=true&random=false&width=435&lines=Hi 👋, I'm Ebubekir;Welcome+to+my+Github+page; I+am+a+student+of+astronomy🌠" alt="Typing SVG" />
 </p>
 
-![](vector-astronomy-design-concept.jpg)
+![astronomy](vector-astronomy-design-concept.jpg)
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ebupi&label=Profile%20views&color=0e75b6&style=flat" alt="ebupi" /> </p>
