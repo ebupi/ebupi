@@ -1,7 +1,8 @@
 # Readme
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cambo&size=24&pause=1000&color=F7902E&center=true&vCenter=true&random=false&width=435&lines=Hi 👋, I'm Ebubekir;Welcome+to+my+Github+page; I+am+a+student+of+astronomy🌠" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Cambo&size=24&pause=1000&color=F7902E&center=true&vCenter=true&random=false&width=435&lines=Hi 👋, I'm Ebubekir;Welcome+to+my+Github+page; I+am+a+student+of+astronomy🌠?sanitize=true" alt="Typing SVG" />
+
 
 
 ![astronomy](vector-astronomy-design-concept.jpg)
