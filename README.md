@@ -2,9 +2,9 @@
 
 
 <p align="center">
-<a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F77A3B&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ebubekir;Welcome+to+my+Github+page;I+am+a+student+of+astronomy%F0%9F%8C%A0" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F77A3B&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ebubekir;Welcome+to+my+Github+page;I+am+a+student+of+astronomy%F0%9F%8C%A0" alt="Typing SVG" /></a>
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F77A3B&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ebubekir;Welcome+to+my+Github+page;I+am+a+student+of+astronomy%F0%9F%8C%A0)](https://git.io/typing-svg)
+
 
 
 ![astronomy](vector-astronomy-design-concept.jpg)
