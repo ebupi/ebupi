@@ -40,12 +40,14 @@
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white " alt="alt"/>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebupi&show_icons=true&locale=en&layout=compact" alt="ebupi" /></p>
+<div align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ebupi&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ebupi&show_icons=true&locale=en" alt="ebupi" /></p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebupi&show_icons=true&locale=en&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ebupi&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebupi&" alt="ebupi" /></p>
+</div>
 
 <div style="display: inline_block" align="center">
       <h3>Operating Systems</h3>
